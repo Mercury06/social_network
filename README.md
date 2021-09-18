@@ -5,11 +5,12 @@
 
 Stack:
 
-ReactJS
+<ul>
+  <li>ReactJS</li>
 Redux
 Redux Thunk
 Redux-form
 Axios
 reselect
 classnames
-
+<ul>
