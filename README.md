@@ -1,4 +1,4 @@
-Социальная сеть java script разработчиков
+Социальная сеть для Java Script разработчиков
 
 Деплой ссылка: https://mercury06.github.io/social_network/
 
