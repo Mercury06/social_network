@@ -7,10 +7,10 @@ Stack:
 
 <ul>
   <li>ReactJS</li>
-Redux
-Redux Thunk
-Redux-form
-Axios
-reselect
-classnames
-<ul>
+  <li>Redux</li>
+  <li>Redux Thunk</li>
+  <li>Redux-form</li>
+  <li>Axios</li>
+  <li>reselect</li>
+  <li>classnames</li>
+ <ul>
